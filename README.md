@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **Problem Solving**
 
-- 💬 Ask me about **C++,C,Data Science ,Geo-polotics**
+- 💬 Ask me about **C++,C,Data Science ,Geo-politics**
 
 - 📫 How to reach me **ankitparihartri@gmail.com**
 
-- ⚡ Fun fact **Play basketball to escape the reality**
+- ⚡ Fun fact **Play basketball to escape reality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
