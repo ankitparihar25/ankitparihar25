@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Problem Solving**
 
-- 💬 Ask me about **C++,C,Data Science ,Geo-politics**
+- 💬 Ask me about ** C,C++,DBMS,OS,System Design ,Geo-politics**
 
 - 📫 How to reach me **ankitparihartri@gmail.com**
 
